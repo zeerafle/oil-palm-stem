@@ -6,3 +6,4 @@ data/archive.zip
 venv
 
 generate_selected_data_list.py
+/desktop.ini
