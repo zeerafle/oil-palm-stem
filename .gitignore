@@ -2,6 +2,7 @@ data/cleaned_dataset
 data/processed_dataset
 data/selected_dataset
 data/archive.zip
+/data/processed_dataset_no_noise_removal/
 
 venv
 
