@@ -3,8 +3,12 @@ data/processed_dataset
 data/selected_dataset
 data/archive.zip
 /data/processed_dataset_no_noise_removal/
+/data/selected_dataset_3000/
+/data/split_selected_dataset_3000/
 
-venv
+.venv
 
 generate_selected_data_list.py
 /desktop.ini
+/Pipfile.lock
+/dumps/
