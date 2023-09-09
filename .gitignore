@@ -6,6 +6,7 @@ data/archive.zip
 /data/selected_dataset_3000/
 /data/split_selected_dataset_3000/
 data/*.csv
+data/excel
 
 .venv
 
