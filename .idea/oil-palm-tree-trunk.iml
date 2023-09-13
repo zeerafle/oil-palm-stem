@@ -2,6 +2,14 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/data/cleaned_dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/data/processed_dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/data/processed_dataset_no_noise_removal" />
+      <excludeFolder url="file://$MODULE_DIR$/data/selected_dataset" />
+      <excludeFolder url="file://$MODULE_DIR$/data/selected_dataset_3000" />
+      <excludeFolder url="file://$MODULE_DIR$/data/split_selected_dataset_3000" />
+      <excludeFolder url="file://$MODULE_DIR$/dumps" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (oil-palm-stem)" jdkType="Python SDK" />

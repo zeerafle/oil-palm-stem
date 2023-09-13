@@ -11,5 +11,6 @@ generate_selected_data_list.py
 /data/selected_dataset_3000/
 /data/split_selected_dataset_3000/
 
-desktop.ini
 /dumps/
+/data/*.csv
+/data/*.parquet
