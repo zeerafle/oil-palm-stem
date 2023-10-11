@@ -5,3 +5,5 @@ pandas
 matplotlib
 pyarrow
 tensorflow
+jupyter
+python-docx
