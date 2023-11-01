@@ -19,7 +19,7 @@ doc = Document()
 table = doc.add_table(rows=400, cols=3)
 
 # read the true vs prediction result
-df = pd.read_csv(r'result\true_pred.csv')
+df = pd.read_csv(r'result\true_pred_224_globalavgpool.csv')
 
 # loop over the dataframe
 for index, row in df.iterrows():
