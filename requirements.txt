@@ -1,7 +1,9 @@
-
-opencv-python~=4.7.0.72
-numpy~=1.25.0
+numpy
 scikit-image~=0.21.0
 scikit-learn
 pandas
 matplotlib
+pyarrow
+tensorflow
+jupyter
+python-docx

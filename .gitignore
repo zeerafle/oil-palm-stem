@@ -1,10 +1,22 @@
+*.ipynb_checkpoints
 data/cleaned_dataset
 data/processed_dataset
 data/selected_dataset
 data/archive.zip
 /data/processed_dataset_no_noise_removal/
+/data/selected_dataset_3000/
+/data/selected_dataset_stem/
+/data/split_selected_dataset_3000/
+/data/rotated_test_data/
 
-venv
+.venv
 
 generate_selected_data_list.py
 /desktop.ini
+
+/dumps/*
+/data/*.csv
+/data/*.parquet
+/data/*.zip
+!/data/resnet50_img_feature_224_globalavgpool.csv
+!/dumps/pipeline_224_globalavgpool.joblib
