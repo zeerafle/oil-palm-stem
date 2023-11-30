@@ -14,7 +14,9 @@ data/archive.zip
 generate_selected_data_list.py
 /desktop.ini
 
-/dumps/
+/dumps/*
 /data/*.csv
 /data/*.parquet
 /data/*.zip
+!/data/resnet50_img_feature_224_globalavgpool.csv
+!/dumps/pipeline_224_globalavgpool.joblib
